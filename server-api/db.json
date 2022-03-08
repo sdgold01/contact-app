@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "id": "3",
+      "name": "Maximum",
+      "email": "max@yahoo.com"
+    },
+    {
+      "id": "4",
+      "name": "test",
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "Amit",
+      "email": "amit@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "Mike John",
+      "email": "mike@outlook.com"
+    },
+    {
+      "id": "5dc14224-c3fb-4cf9-b67e-b67bb60b57d6",
+      "name": "Aladetoyinbo sodiq",
+      "email": "auduzainab1@gmail.com"
+    },
+    {
+      "id": "46d4f443-0f7e-4a74-8c7c-c2f9d21f3185",
+      "name": "Savage Akinremi",
+      "email": "savageakin@gmail.com"
+    },
+    {
+      "id": "f2e3b2b5-204f-49aa-9ef8-e3cceaaef7c7",
+      "name": "Sanusi usman",
+      "email": "usman@gmail.com"
+    },
+    {
+      "id": "68e73063-693d-4af4-a1dd-bfc2a16d3024",
+      "name": "Kazeem",
+      "email": "kazberg@gmail.com"
+    }
+  ]
+}
